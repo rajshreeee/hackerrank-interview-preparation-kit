@@ -23,3 +23,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 3. [Sherlock And Anagrams](https://www.hackerrank.com/challenges/sherlock-and-anagrams/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
    - [Problem Statement](src/resources/dictionariesandhashmaps/SherlockAndAnagrams.pdf)
    - [Solution](src/main/solution/dictionariesandhashmaps/SherlockAndAnagrams.java)
+4. [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+   - [Problem Statement](src/resources/dictionariesandhashmaps/CountTriplets.pdf)
+   - [Solution](src/main/solution/dictionariesandhashmaps/CountTriplets.java)
