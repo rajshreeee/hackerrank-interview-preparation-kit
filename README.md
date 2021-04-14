@@ -17,3 +17,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 1. [Ransom Note](https://www.hackerrank.com/challenges/ctci-ransom-note/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
    - [Problem Statement](src/resources/dictionariesandhashmaps/RansomNote.pdf)
    - [Solution](src/main/solution/dictionariesandhashmaps/RansomNote.java)
+2. [Two Strings](https://www.hackerrank.com/challenges/two-strings/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+   - [Problem Statement](src/resources/dictionariesandhashmaps/TwoStrings.pdf)
+   - [Solution](src/main/solution/dictionariesandhashmaps/TwoStrings.java)
