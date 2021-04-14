@@ -26,3 +26,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 4. [Count Triplets](https://www.hackerrank.com/challenges/count-triplets-1/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
    - [Problem Statement](src/resources/dictionariesandhashmaps/CountTriplets.pdf)
    - [Solution](src/main/solution/dictionariesandhashmaps/CountTriplets.java)
+5. [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?filter=java&filter_on=language&h_l=interview&page=2&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
+   - [Problem Statement](src/resources/dictionariesandhashmaps/FrequencyQueries.pdf)
+   - [Solution](src/main/solution/dictionariesandhashmaps/FrequencyQueries.java)   
