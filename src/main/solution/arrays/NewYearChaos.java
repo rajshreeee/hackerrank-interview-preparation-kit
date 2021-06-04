@@ -2,31 +2,46 @@ package main.solution.arrays;
 
 import static java.lang.Math.max;
 
-import java.util.Scanner;
+import java.io.*;
+import java.math.*;
+import java.security.*;
+import java.text.*;
+import java.util.*;
+import java.util.concurrent.*;
+import java.util.regex.*;
+import java.util.stream.IntStream;
 
-public class NewYearChaos {
-
-  // Complete the minimumBribes function below.
-  static void minimumBribes(int[] q) {
-    int totalNoOfBribes = 0;
-    int qLength = q.length;
-    for (int i = qLength- 1; i >= 0; i--) {
-      if (q[i] > i + 3) {
-        System.out.println("Too chaotic");
-        break;
-      }
-
-      for(int j = max(0, q[i] -2); j < i; j++) {
-        if(q[j] > q[i]) {
-          totalNoOfBribes++;
-        }
-      }
-
-      System.out.println(totalNoOfBribes);
-    }
-  }
+public class Solution {
 
   private static final Scanner scanner = new Scanner(System.in);
+
+  static void minimumBribes(int[] q) {
+    int totalBribes = 0;
+
+    int expectedFirst = 1;
+    int expectedSecond = 2;
+    int expectedThird = 3;
+
+    for (int i = 0; i < q.length; ++i) {
+      if (q[i] == expectedFirst) {
+        expectedFirst = expectedSecond;
+        expectedSecond = expectedThird;
+        ++expectedThird;
+      } else if (q[i] == expectedSecond) {
+        ++totalBribes;
+        expectedSecond = expectedThird;
+        ++expectedThird;
+      } else if (q[i] == expectedThird) {
+        totalBribes += 2;
+        ++expectedThird;
+      } else {
+        System.out.println("Too chaotic");
+        return;
+      }
+    }
+
+    System.out.println(totalBribes);
+  }
 
   public static void main(String[] args) {
     int t = scanner.nextInt();
