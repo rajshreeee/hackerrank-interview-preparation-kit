@@ -31,6 +31,7 @@ class Result {
                 }
             }
         }
+        // print out the result
         System.out.println("Array is sorted in " +  numOfSwaps+ " swaps.");
         System.out.println("First Element: " +a.get(0));
         System.out.println("Last Element: " +a.get(a.size()-1));
