@@ -2,16 +2,9 @@ package main.solution.arrays;
 
 import static java.lang.Math.max;
 
-import java.io.*;
-import java.math.*;
-import java.security.*;
-import java.text.*;
 import java.util.*;
-import java.util.concurrent.*;
-import java.util.regex.*;
-import java.util.stream.IntStream;
 
-public class Solution {
+public class NewYearChaos {
 
   private static final Scanner scanner = new Scanner(System.in);
 

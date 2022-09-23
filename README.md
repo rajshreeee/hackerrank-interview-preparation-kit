@@ -29,3 +29,8 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 5. [Frequency Queries](https://www.hackerrank.com/challenges/frequency-queries/problem?filter=java&filter_on=language&h_l=interview&page=2&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dictionaries-hashmaps)
    - [Problem Statement](src/resources/dictionariesandhashmaps/FrequencyQueries.pdf)
    - [Solution](src/main/solution/dictionariesandhashmaps/FrequencyQueries.java)   
+
+## Sorting
+1. [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+   - [Problem Statement](src/resources/sorting/bubblesort.pdf)
+   - [Solution](src/main/solution/sorting/BubbleSort.java)   
