@@ -34,3 +34,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 1. [Bubble Sort](https://www.hackerrank.com/challenges/ctci-bubble-sort/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
    - [Problem Statement](src/resources/sorting/bubblesort.pdf)
    - [Solution](src/main/solution/sorting/BubbleSort.java)   
+2. [Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+   - [Problem Statement](src/resources/sorting/comparator.pdf)
+   - [Solution](src/main/solution/sorting/ComparatorSolution.java)
