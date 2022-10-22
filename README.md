@@ -40,3 +40,8 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 3. [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
    - [Problem Statement](src/resources/sorting/mark-and-toys.pdf)
    - [Solution](src/main/solution/sorting/MarkAndToysSolution.java)
+
+## String Manipulation
+1. [Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+   - [Problem Statement](src/resources/stringmanipulation/ctci-making-anagrams-English.pdf)
+   - [Solution](src/main/solution/stringmanipulation/Anagrams.java)
