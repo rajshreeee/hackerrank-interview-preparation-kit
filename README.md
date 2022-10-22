@@ -37,3 +37,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 2. [Comparator](https://www.hackerrank.com/challenges/ctci-comparator-sorting/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
    - [Problem Statement](src/resources/sorting/comparator.pdf)
    - [Solution](src/main/solution/sorting/ComparatorSolution.java)
+3. [Mark and Toys](https://www.hackerrank.com/challenges/mark-and-toys/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=sorting)
+   - [Problem Statement](src/resources/sorting/mark-and-toys.pdf)
+   - [Solution](src/main/solution/sorting/MarkAndToysSolution.java)
