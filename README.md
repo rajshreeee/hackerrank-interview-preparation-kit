@@ -48,3 +48,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 2. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
    - [Problem Statement](src/resources/stringmanipulation/alternating-characters-English.pdf)
    - [Solution](src/main/solution/stringmanipulation/AlternatingCharacters.java)
+3. [Sherlock and the Valid String](https://www.hackerrank.com/challenges/sherlock-and-valid-string/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+   - [Problem Statement](src/resources/stringmanipulation/sherlock-and-valid-string-English.pdf)
+   - [Solution](src/main/solution/stringmanipulation/SherlockValidString.java)
