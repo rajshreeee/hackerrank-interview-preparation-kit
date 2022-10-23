@@ -45,3 +45,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 1. [Anagrams](https://www.hackerrank.com/challenges/ctci-making-anagrams/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
    - [Problem Statement](src/resources/stringmanipulation/ctci-making-anagrams-English.pdf)
    - [Solution](src/main/solution/stringmanipulation/Anagrams.java)
+2. [Alternating Characters](https://www.hackerrank.com/challenges/alternating-characters/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+   - [Problem Statement](src/resources/stringmanipulation/alternating-characters-English.pdf)
+   - [Solution](src/main/solution/stringmanipulation/AlternatingCharacters.java)
