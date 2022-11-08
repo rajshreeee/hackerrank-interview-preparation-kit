@@ -57,3 +57,8 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 5. [Common Child](https://www.hackerrank.com/challenges/common-child/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
    - [Problem Statement](src/resources/stringmanipulation/common-child-English.pdf)
    - [Solution](src/main/solution/stringmanipulation/CommonChild.java)
+
+## Greedy Algorithms
+1. [Minimum Absolute Difference](https://www.hackerrank.com/challenges/minimum-absolute-difference-in-an-array/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
+   - [Problem Statement](src/resources/greedyalgorithms/minimum-absolute-difference-in-an-array-English.pdf)
+   - [Solution](src/main/solution/greedyalgorithms/MinimumAbsoluteDifference.java)
