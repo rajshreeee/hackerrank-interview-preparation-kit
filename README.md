@@ -64,3 +64,6 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
    - [Solution](src/main/solution/greedyalgorithms/MinimumAbsoluteDifference.java)
 2. [Luck Balance](https://www.hackerrank.com/challenges/luck-balance/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
    - [Solution](src/main/solution/greedyalgorithms/LuckBalance.java)
+3. [Greedy Florist](https://www.hackerrank.com/challenges/greedy-florist/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
+   - [Problem Statement](src/resources/greedyalgorithms/greedy-florist-English.pdf)
+   - [Solution](src/main/solution/greedyalgorithms/GreedyFlorist.java)
