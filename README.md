@@ -1,6 +1,7 @@
 # hackerrank-interview-preparation-kit
 
 Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) in java 11.
+Problems that are common are marked with '*'
 
 ## Arrays
 1. [2D Array -DS](https://www.hackerrank.com/challenges/2d-array/problem?h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=arrays)
@@ -54,7 +55,7 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 4. [Special Strings Again](https://www.hackerrank.com/challenges/special-palindrome-again/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
    - [Problem Statement](src/resources/stringmanipulation/special-palindrome-again-English.pdf)
    - [Solution](src/main/solution/stringmanipulation/SpecialString.java)
-5. [Common Child](https://www.hackerrank.com/challenges/common-child/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
+5. [Common Child*](https://www.hackerrank.com/challenges/common-child/problem?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=strings)
    - [Problem Statement](src/resources/stringmanipulation/common-child-English.pdf)
    - [Solution](src/main/solution/stringmanipulation/CommonChild.java)
 
