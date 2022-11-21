@@ -70,3 +70,8 @@ Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/
 4. [Max Min](https://www.hackerrank.com/challenges/angry-children/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=greedy-algorithms)
    - [Problem Statement](src/resources/greedyalgorithms/angry-children-English.pdf)
    - [Solution](src/main/solution/greedyalgorithms/MaxMin.java)
+
+## Search
+1. [Ice cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+   - [Problem Statement](src/resources/search/ctci-ice-cream-parlor-English.pdf)
+   - [Solution](src/main/solution/search/IceCreamParlor.java)
