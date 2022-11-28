@@ -76,3 +76,6 @@ Problems that are common are marked with '*'
 1. [Ice cream Parlor](https://www.hackerrank.com/challenges/ctci-ice-cream-parlor/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
    - [Problem Statement](src/resources/search/ctci-ice-cream-parlor-English.pdf)
    - [Solution](src/main/solution/search/IceCreamParlor.java)
+1. [Swap Nodes [Algo]*](https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+   - [Problem Statement](src/resources/search/swap-nodes-algo-English.pdf)
+   - [Solution](src/main/solution/search/SwapNodesAlgo.java)
