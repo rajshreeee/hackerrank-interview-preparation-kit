@@ -1,6 +1,6 @@
 # hackerrank-interview-preparation-kit
 
-Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) in java 11.
+Solutions for [hackerrank interview preparation kit](https://www.hackerrank.com/interview/interview-preparation-kit) in java 17.
 Problems that are common are marked with '*'
 
 ## Arrays
@@ -79,6 +79,9 @@ Problems that are common are marked with '*'
 2. [Swap Nodes [Algo]*](https://www.hackerrank.com/challenges/swap-nodes-algo/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
    - [Problem Statement](src/resources/search/swap-nodes-algo-English.pdf)
    - [Solution](src/main/solution/search/SwapNodesAlgo.java)
-2. [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+3. [Pairs](https://www.hackerrank.com/challenges/pairs/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
    - [Problem Statement](src/resources/search/pairs-English.pdf)
    - [Solution](src/main/solution/search/Pairs.java)
+4. [TripleSum*](https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+   - [Problem Statement](src/resources/search/triple-sum-English.pdf)
+   - [Solution](src/main/solution/search/TripleSum.java)
