@@ -85,3 +85,6 @@ Problems that are common are marked with '*'
 4. [TripleSum*](https://www.hackerrank.com/challenges/triple-sum/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
    - [Problem Statement](src/resources/search/triple-sum-English.pdf)
    - [Solution](src/main/solution/search/TripleSum.java)
+5. [Minimum Time Required*](https://www.hackerrank.com/challenges/minimum-time-required/forum?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
+   - [Problem Statement](src/resources/search/minimum-time-required-English.pdf)
+   - [Solution](src/main/solution/search/MinimumTimeRequired.java)

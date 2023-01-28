@@ -7,9 +7,6 @@ import java.util.stream.Stream;
 
 import static java.util.stream.Collectors.toList;
 
-/* General idea: if you sort the prices then sum them incrementally,
-* you will get the largest number of toys. As the prices are sorted, obviously the
-* smallest prices will come first and you get the maximum number of toys*/
 public class MarkAndToysSolution {
     public static int maximumToys(List<Integer> prices, int k) {
         Collections.sort(prices);
@@ -47,5 +44,5 @@ public class MarkAndToysSolution {
             bufferedReader.close();
             bufferedWriter.close();
         }
-}
+    }
 }
