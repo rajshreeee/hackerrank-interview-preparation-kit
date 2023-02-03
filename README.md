@@ -88,3 +88,8 @@ Problems that are common are marked with '*'
 5. [Minimum Time Required*](https://www.hackerrank.com/challenges/minimum-time-required/forum?isFullScreen=true&h_l=interview&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=search)
    - [Problem Statement](src/resources/search/minimum-time-required-English.pdf)
    - [Solution](src/main/solution/search/MinimumTimeRequired.java)
+
+## Dynamic Programming
+1. [Maximum Array Sum](https://www.hackerrank.com/challenges/max-array-sum/forum?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)
+   - [Problem Statement](src/resources/dynamicprogramming/max-array-sum-English.pdf)
+   - [Solution](src/main/solution/dynamicprogramming/MaximumArraySum.java)
