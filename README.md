@@ -93,3 +93,6 @@ Problems that are common are marked with '*'
 1. [Maximum Array Sum](https://www.hackerrank.com/challenges/max-array-sum/forum?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)
    - [Problem Statement](src/resources/dynamicprogramming/max-array-sum-English.pdf)
    - [Solution](src/main/solution/dynamicprogramming/MaximumArraySum.java)
+1. [Candies](https://www.hackerrank.com/challenges/candies/problem?h_l=interview&isFullScreen=false&playlist_slugs%5B%5D=interview-preparation-kit&playlist_slugs%5B%5D=dynamic-programming)
+   - [Problem Statement](src/resources/dynamicprogramming/candies.pdf)
+   - [Solution](src/main/solution/dynamicprogramming/Candies.java)
